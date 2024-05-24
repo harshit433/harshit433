@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hi there!  I'm Harshit Aggarwal, an AI enthusiast particularly interested in Deep Learning.   I'm passionate about leveraging technology to create positive change, which is why I'm pursuing a career in entrepreneurship.
 
 🌱🔭
-I'm currently working with the Nasscom Foundation in collaboration with Ciena on their Tech for Change program.  Through this program, I'm building a startup called **Mozo Robotics**, which focuses on developing AI-powered robots for automating domestic works. 🤖
+I'm currently working with the Nasscom Foundation in collaboration with Ciena on their Tech for Change program.  Through this program, I'm building a startup called **AssistAI Labs**, which focuses on developing AI-powered robots for automating domestic works. 🤖
 
 This is my GitHub profile, where you'll find my code related to deep learning and other projects.
 
