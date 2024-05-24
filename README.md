@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/harshit433/harshit433/assets/67017828/4cff7d02-f092-44eb-b534-a9c99bad88d8)
+
+
