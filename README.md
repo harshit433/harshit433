@@ -45,11 +45,11 @@ Let's connect! You can find me on:
 
 I'm always open to collaboration and learning new things. Feel free to reach out if you have any questions or suggestions for my projects!
 
-<h3><strong>My languages</strong></h3>
+<h2><strong>My languages</strong></h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,dart,django,flask,flutter,html,linux,py,pytorch,sklearn,tensorflow," />
   </a>
 </p>
 <br>
