@@ -44,7 +44,11 @@ Let's connect! You can find me on:
 #### Let's Collaborate!👍
 
 I'm always open to collaboration and learning new things. Feel free to reach out if you have any questions or suggestions for my projects!
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshit433" />
