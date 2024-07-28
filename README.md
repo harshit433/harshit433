@@ -51,4 +51,4 @@ I'm always open to collaboration and learning new things. Feel free to reach out
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit433&layout=compact&langs_count=8&card_width=320" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshit433&repo=NLP-Chatbot-Cantilever)](https://github.com/harshit433/NLP-Chatbot-Cantilever)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
