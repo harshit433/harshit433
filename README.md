@@ -44,6 +44,9 @@ Let's connect! You can find me on:
 #### Let's Collaborate!👍
 
 I'm always open to collaboration and learning new things. Feel free to reach out if you have any questions or suggestions for my projects!
+
+<h3><strong>My languages</strong></h3>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
