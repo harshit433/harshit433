@@ -47,5 +47,4 @@ I'm always open to collaboration and learning new things. Feel free to reach out
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit433)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit433&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshit433)](https://github.com/anuraghazra/github-readme-stats)
 
