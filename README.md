@@ -30,7 +30,8 @@ This is my GitHub profile, where you'll find my code related to deep learning an
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit433&layout=donut&langs_count=8&card_width=320" />
 </a>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 #### Skills & Technologies
 
 I'm proficient in Deep Learning frameworks like TensorFlow and PyTorch.
