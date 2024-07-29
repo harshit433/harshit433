@@ -59,8 +59,7 @@ Let's connect! You can find me on:
 #### Let's Collaborate!👍
 
 I'm always open to collaboration and learning new things. Feel free to reach out if you have any questions or suggestions for my projects!
-<center>
 ![Visitor Count](https://profile-counter.glitch.me/harshit433/count.svg)
-</center>
+
 
 
