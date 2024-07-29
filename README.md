@@ -28,7 +28,7 @@ This is my GitHub profile, where you'll find my code related to deep learning an
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshit433" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit433&layout=pie&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit433&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 #### Skills & Technologies
