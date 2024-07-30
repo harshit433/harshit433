@@ -31,6 +31,11 @@ This is my GitHub profile, where you'll find my code related to deep learning an
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit433&layout=donut&langs_count=8&card_width=320" />
 </a>
 <!--START_SECTION:waka-->
+
+```txt
+HTML   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 #### Skills & Technologies
 
