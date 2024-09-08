@@ -49,7 +49,7 @@ Leadership and decision making
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,dart,django,flask,flutter,html,linux,py,pytorch,sklearn,tensorflow," />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,dart,django,flask,flutter,html,linux,py,pytorch,sklearn,tensorflow,aws,azure,discord,docker,dynamodb,firebase,mongodb,mysql,opencv,vscode,windows" />
   </a>
 </p>
 
