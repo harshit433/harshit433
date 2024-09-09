@@ -33,7 +33,11 @@ This is my GitHub profile, where you'll find my code related to deep learning an
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   58 mins         ███████████████████▓░░░░░   78.60 %
+Text     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Git      7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Dart     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
