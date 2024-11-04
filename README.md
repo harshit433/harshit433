@@ -33,8 +33,8 @@ This is my GitHub profile, where you'll find my code related to deep learning an
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     13 hrs 19 mins  █████████████████████░░░░   84.60 %
-Python   2 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Dart     10 hrs 10 mins  ████████████████████▒░░░░   80.75 %
+Python   2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
 ```
 
 <!--END_SECTION:waka-->
