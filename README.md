@@ -33,11 +33,11 @@ This is my GitHub profile, where you'll find my code related to deep learning an
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              9 hrs 11 mins   ████████████████████░░░░░   80.27 %
-JSON              1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Python            38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-YAML              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Groovy            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python     2 hrs 8 mins    ████████████████████▒░░░░   81.64 %
+Dart       27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
