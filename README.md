@@ -1,26 +1,12 @@
 ## Hi there 👋
 
-<!--
-**harshit433/harshit433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--   I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/harshit433/harshit433/assets/67017828/4cff7d02-f092-44eb-b534-a9c99bad88d8)
 
-Hi there!  I'm Harshit Aggarwal, an AI enthusiast particularly interested in Deep Learning.   I'm passionate about leveraging technology to create positive change, which is why I'm pursuing a career in entrepreneurship.
+I'm passionate about leveraging AI and technology to drive innovation and create a positive impact. As a final-year undergraduate student, I'm actively building my career at the intersection of AI and entrepreneurship.
 
-🌱🔭
-I'm currently working as a Data Analyst intern at WNS Global Services. In my part time, I am building an AI based startup named Stremly. 🤖
+🌱🔭Working as a Data Analyst Intern at WNS Global Services. 🤖
+🤖 Building Stremly, an AI-based startup focused on streamlining multi-agent AI workflows
+🔍 Exploring advanced Deep Learning techniques to push the boundaries of AI applications
 
 This is my GitHub profile, where you'll find my code related to deep learning and other projects.
 <br>
