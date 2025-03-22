@@ -5,7 +5,9 @@
 I'm passionate about leveraging AI and technology to drive innovation and create a positive impact. As a final-year undergraduate student, I'm actively building my career at the intersection of AI and entrepreneurship.
 
 🌱🔭Working as a Data Analyst Intern at WNS Global Services. 🤖
+
 🤖 Building Stremly, an AI-based startup focused on streamlining multi-agent AI workflows
+
 🔍 Exploring advanced Deep Learning techniques to push the boundaries of AI applications
 
 This is my GitHub profile, where you'll find my code related to deep learning and other projects.
