@@ -21,11 +21,11 @@ This is my GitHub profile, where you'll find my code related to deep learning an
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 53 mins   ████████████████████████▒   97.26 %
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       6 hrs 48 mins   ███████████████████████░░   91.57 %
+Bash         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Text         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
